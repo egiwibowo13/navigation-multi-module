@@ -1,0 +1,5 @@
+rootProject.name = "NavigationMultiModule"
+include ':app'
+include ':features:modulea'
+include ':features:moduleb'
+include ':navigation'
